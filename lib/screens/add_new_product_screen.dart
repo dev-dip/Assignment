@@ -24,7 +24,7 @@ class _AddProductScreenState extends State<AddProductScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('A D D  P R O D U C T'),
+        title: const Text('Add Product'),
       ),
       body: SingleChildScrollView(
         child: Padding(

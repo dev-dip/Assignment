@@ -39,7 +39,7 @@ class _UpdateProductScreenState extends State<UpdateProductScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('U P D A T E  P R O D U C T'),
+        title: const Text('Update Product'),
       ),
       body: SingleChildScrollView(
         child: Padding(
